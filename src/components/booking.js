@@ -1,13 +1,14 @@
 import React, { Component } from 'react';
-// import Iframe from 'react-iframe';
+import Iframe from 'react-iframe';
 
 class Booking extends Component {
     render() {
         return (
             <div>
+                <Iframe url="https://www.youtube.com/embed/l_DwbnLEpyw" />
                 <iframe
-                    width="1366"
-                    height="620"
+                    width="560"
+                    height="315"
                     src="https://www.youtube.com/embed/l_DwbnLEpyw"
                     title="YouTube video player"
                     frameborder="0"

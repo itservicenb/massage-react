@@ -16,7 +16,7 @@ class App extends Component {
                             <Link to="/about">Giới Thiệu</Link>
                             <Link to="/services">Dịch Vụ</Link>
                             <Link to="/booking">YouTube Chanel</Link>
-                            <Link to="/contact">Contact</Link>
+                            <Link to="/contact">Địa chỉ</Link>
                         </Navigation>
                     </Header>
                     <Drawer title="Pages">
@@ -25,7 +25,7 @@ class App extends Component {
                             <Link to="/about">Giới Thiệu</Link>
                             <Link to="/services">Dịch Vụ</Link>
                             <Link to="/booking">YouTube Chanel</Link>
-                            <Link to="/contact">Contact</Link>
+                            <Link to="/contact">Địa chỉ</Link>
                         </Navigation>
                     </Drawer>
                     <Content>
