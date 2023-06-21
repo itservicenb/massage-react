@@ -13,7 +13,7 @@ class Services extends Component {
                             <Card shadow={0} style={{ width: '30%', margin: 'auto' }}>
                                 <CardTitle
                                     style={{
-                                        color: '#fff',
+                                        color: '#333',
                                         height: '176px',
                                         background:
                                             'url(https://github.com/jdleo/Lauren-Massage-Therapy/blob/master/src/images/deeptissue.jpg?raw=true) center / cover',
@@ -32,7 +32,7 @@ class Services extends Component {
                             <Card shadow={0} style={{ width: '30%', margin: 'auto' }}>
                                 <CardTitle
                                     style={{
-                                        color: '#fff',
+                                        color: '#333',
                                         height: '176px',
                                         background:
                                             'url(https://github.com/jdleo/Lauren-Massage-Therapy/blob/master/src/images/swedish.jpeg?raw=true) center / cover',
@@ -68,7 +68,7 @@ class Services extends Component {
                             <Card shadow={0} style={{ width: '30%', margin: 'auto' }}>
                                 <CardTitle
                                     style={{
-                                        color: '#fff',
+                                        color: '#333',
                                         height: '176px',
                                         background:
                                             'url(https://github.com/jdleo/Lauren-Massage-Therapy/blob/master/src/images/reflexology.jpeg?raw=true) center / cover',

@@ -15,7 +15,7 @@ class App extends Component {
                             <Link to="/">Home</Link>
                             <Link to="/about">Giới Thiệu</Link>
                             <Link to="/services">Dịch Vụ</Link>
-                            <Link to="/booking">Booking</Link>
+                            <Link to="/booking">YouTube Chanel</Link>
                             <Link to="/contact">Contact</Link>
                         </Navigation>
                     </Header>
@@ -24,7 +24,7 @@ class App extends Component {
                             <Link to="/">Home</Link>
                             <Link to="/about">Giới Thiệu</Link>
                             <Link to="/services">Dịch Vụ</Link>
-                            <Link to="/booking">Booking</Link>
+                            <Link to="/booking">YouTube Chanel</Link>
                             <Link to="/contact">Contact</Link>
                         </Navigation>
                     </Drawer>
