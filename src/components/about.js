@@ -13,7 +13,7 @@ class About extends Component {
                                 <CardTitle
                                     style={{
                                         color: '#fff',
-                                        height: '350px',
+                                        height: '400px',
                                         background:
                                             'url(https://github.com/itservicenb/massage-react/blob/master/src/images/about/le_tan.jpg?raw=true) center / cover',
                                     }}
@@ -94,7 +94,7 @@ class About extends Component {
                                 <CardTitle
                                     style={{
                                         color: '#fff',
-                                        height: '150px',
+                                        height: '180px',
                                         background:
                                             'url(https://github.com/itservicenb/massage-react/blob/master/src/images/about/le_tan.jpg?raw=true) center / cover',
                                     }}

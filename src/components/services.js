@@ -145,7 +145,7 @@ class Services extends Component {
                             <Card shadow={0} style={{ width: '90%', margin: 'auto' }}>
                                 <CardTitle
                                     style={{
-                                        color: '#fff',
+                                        color: '#333',
                                         height: '150px',
                                         background:
                                             'url(https://github.com/jdleo/Lauren-Massage-Therapy/blob/master/src/images/reflexology.jpeg?raw=true) center / cover',

@@ -17,7 +17,7 @@ class Landing extends Component {
                             <div className="banner-text">
                                 <h1>HOÀI PHƯƠNG</h1>
                                 <hr />
-                                <p>THERAPEUTIC • DEEP TISSUE • SPORTS • LODI, CA</p>
+                                {/* <p>THERAPEUTIC • DEEP TISSUE • SPORTS • LODI, CA</p> */}
                                 <hr />
                                 <p>https://www.facebook.com/hoaiphuongmassage/</p>
                             </div>
